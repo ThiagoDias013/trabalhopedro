@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+  background: #f7f7f7f7;
+  display: grid;
+  gap: 60px;
+  justify-items: center;
+}
+
+.titulo {
+  text-transform: uppercase;
+}
+
+h3 {
+  margin: 30px;
+}
+
+.titulo1 {
+  text-transform: uppercase;
+  margin-top: 30px;
+}
+
+h1 {
+  text-transform: uppercase;
+}
